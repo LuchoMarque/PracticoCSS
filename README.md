@@ -17,9 +17,8 @@ Este proyecto demuestra el uso de diversas propiedades y técnicas de CSS en una
 6. **Grid Layout**: Contenedor responsivo usando `grid`.
 7. **Animaciones**: Ejemplos de animaciones `hover` y `mover`.
 
-## Uso
-
-Ejecución Para visualizar este proyecto: A través del siguiente link:
+## Visualización
+Link: https://luchomarque.github.io/PracticoCSS/
 
 ## Autor
 
